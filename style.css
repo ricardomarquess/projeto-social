@@ -40,3 +40,14 @@ iframe {
     width: 269px;
     height: 471px;
 }
+
+#sociais img {
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-sizing: border-box;
+} 
+
+#sociais img:hover {
+    border: 2px solid white;
+}
